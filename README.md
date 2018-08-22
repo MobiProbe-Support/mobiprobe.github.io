@@ -44,7 +44,7 @@ class ViewController: UIViewController {
 	}
 	
 	@IBAction func actionSendEvent(_ sender: UIButton) {
-		Events.sendEvent("buttonTappedEvent", forStringValue: "\(Date().dayOfWeek() ?? "")")
+		Events.sendEvent("buttonTappedEvent", forStringValue: "I'm tapped")
 	}
 
 	override func didReceiveMemoryWarning() {
