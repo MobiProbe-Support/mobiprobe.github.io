@@ -1,0 +1,16 @@
+PODS:
+  - MobiProbe (1.0)
+
+DEPENDENCIES:
+  - MobiProbe
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - MobiProbe
+
+SPEC CHECKSUMS:
+  MobiProbe: 913f544c5b2357ae30008fdd2c0153103e7518fd
+
+PODFILE CHECKSUM: 9afb9c9313d6f5408fee97365b39ad79e46ee81d
+
+COCOAPODS: 1.5.0

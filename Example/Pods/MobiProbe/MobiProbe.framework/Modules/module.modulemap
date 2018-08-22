@@ -1,0 +1,6 @@
+framework module MobiProbe {
+  umbrella header "MobiProbe.h"
+
+  export *
+  module * { export * }
+}
