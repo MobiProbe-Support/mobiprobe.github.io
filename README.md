@@ -28,8 +28,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
 		Events.activate("39e42216")
 		return true
-	}
-	
+		}
 }
 
 
@@ -51,7 +50,7 @@ class ViewController: UIViewController {
 	override func didReceiveMemoryWarning() {
 			super.didReceiveMemoryWarning()
 			// Dispose of any resources that can be recreated.
-		}
+	}
 
 
 }
