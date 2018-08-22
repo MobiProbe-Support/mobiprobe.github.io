@@ -26,7 +26,7 @@ import MobiProbe
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 	func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: 	[UIApplicationLaunchOptionsKey: Any]?) -> Bool {
-		Events.activate("39e42216")
+		Events.activate("Your_App_ID")
 		return true
 	}
 }
